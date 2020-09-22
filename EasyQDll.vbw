@@ -1,0 +1,17 @@
+Application = 22, 22, 571, 370, C
+Criteria = 0, 0, 0, 0, C
+Criterion = 0, 0, 0, 0, C
+DeleteQuery = 0, 0, 0, 0, C
+Domain = 0, 0, 0, 0, C
+Domains = 0, 0, 0, 0, C
+Field = 0, 0, 0, 0, C
+Fields = 0, 0, 0, 0, C
+Globals = 154, 154, 703, 502, C
+Group = 0, 0, 0, 0, C
+Groups = 0, 0, 0, 0, C
+InsertQuery = 0, 0, 549, 348, C
+modClassIDGenerator = 0, 0, 0, 0, C
+Order = 0, 0, 0, 0, C
+Orders = 0, 0, 0, 0, C
+SelectQuery = 22, 22, 571, 370, C
+UpdateQuery = 0, 0, 0, 0, C
